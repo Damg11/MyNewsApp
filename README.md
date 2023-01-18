@@ -31,7 +31,7 @@ Fitur:
 <p float="left">
 <img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230117_133737.png" hspace="20" width=20% height=20%>
   <span> </span>
-<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230118_161712.png" hspace="20" width=20% height=20%>
+<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230118_164144.png" hspace="20" width=20% height=20%>
 </p>
 <br />
 
@@ -42,9 +42,9 @@ Fitur:
 
 5. Profile + App Icon
 
-<p float="left>
+<p float="left">
 <img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230117_133814.png" hspace="20" width=20% height=20%>
   <span> </span>
-<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230118_164144.png" hspace="20" width=20% height=20%>
+<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230118_161712.png" hspace="20" width=20% height=20%>
 </p>
 <br />
