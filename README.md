@@ -1,12 +1,12 @@
 # MyNewsApp
 News App Build With Kotlin
 
-Material : Kotlin, Retrofit, Room
-View : RecyclerView, ViewModel, Navigation
+Material : Kotlin, Retrofit, Room <br />
+View : RecyclerView, ViewModel, Navigation <br />
 API : NewsAPI
 
 Fitur:
-1. Home
+1. Home -> Top News, Latest News, Trending News, Detail News + Like
 
 <!-- <p align="middle"> -->
 
