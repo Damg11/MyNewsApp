@@ -1,6 +1,10 @@
 # MyNewsApp
 News App Build With Kotlin
 
+Material : Kotlin, Retrofit, Room
+View : RecyclerView, ViewModel, Navigation
+API : NewsAPI
+
 Fitur:
 1. Home
 
@@ -15,4 +19,24 @@ Fitur:
   <span> </span>
 <img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230117_130158.png" hspace="20" width=20% height=20%>
 </p>
+<br />
+
+2. Share
+
+<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230117_130123.png" hspace="20" width=20% height=20%>
+<br />
+
+3. Category
+
+<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230117_133737.png" hspace="20" width=20% height=20%>
+<br />
+
+4. Favorites
+
+<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230117_133756.png" hspace="20" width=20% height=20%>
+<br />
+
+5. Profile
+
+<img src="https://github.com/Damg11/MyNewsApp/blob/main/Screenshot/Screenshot_20230117_133814.png" hspace="20" width=20% height=20%>
 <br />
